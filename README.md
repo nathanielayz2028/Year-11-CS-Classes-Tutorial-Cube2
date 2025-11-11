@@ -1,6 +1,6 @@
 # Year 11CS - Classes and Objects - Lab - Cube II
 
-Your job is to create a class called ```Cube2```.  You need to have finished the Cube I lab first.
+Your job is to create a class called ```Cube2``` to extend the functionality of ```Cube```.  You need to have finished the Cube I lab first.
 
 You should pass all of the tests in the ```Cube2Tester``` class (provided).
 
