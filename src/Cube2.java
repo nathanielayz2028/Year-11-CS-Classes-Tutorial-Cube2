@@ -21,6 +21,7 @@ public class Cube2 {
     public int calculateSurfaceArea() { return 0;}
     public Cube2 add(Cube2 otherCube) { return new Cube2(); }
     public Cube2 minus(Cube2 otherCube) { return new Cube2(); }
+    public boolean equals(Cube2 otherCube) { return false; }
 
     public String toString() {
         return basicCube.toString();
